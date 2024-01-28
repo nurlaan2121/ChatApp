@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "497649086183",
+    "project_id": "plasma-buckeye-410013",
+    "storage_bucket": "plasma-buckeye-410013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497649086183:android:a30238b2e9e4df2c51bc42",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcHGWWnVMMYfetZwnVuOTHxhwofCuo6QA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
